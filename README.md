@@ -15,3 +15,6 @@ En este proyecto se construye y entrena una red neuronal para un problema de reg
 - MAE ≈ 330 $
 - R² = 0.98 (alta capacidad explicativa del modelo)
 - Buen ajuste general, sin evidencias claras de sobreajuste.
+
+**Dataset disponible en:**
+https://www.kaggle.com/datasets/shivam2503/diamonds
